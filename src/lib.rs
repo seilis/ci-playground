@@ -4,7 +4,7 @@
 /// # Examples
 /// ```
 /// use ci_testing::add;
-/// assert_eq!(add(2,2), 4) ;
+/// assert_eq!(add(2,3), 4) ;
 /// ```
 pub fn add(x: u32, y: u32) -> u32 {
    x + y 
